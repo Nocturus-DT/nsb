@@ -2,7 +2,6 @@
   "name": "nsb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nocturus-dt.github.io/nsb",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -20,6 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://nocturus-dt.github.io/nsb",
   "eslintConfig": {
     "extends": [
       "react-app",
